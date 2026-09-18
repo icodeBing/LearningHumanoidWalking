@@ -6,3 +6,6 @@ __pycache__*
 logs*
 
 /runs/jvrc_step_smoke
+/runs/jvrc_step
+/runs/jvrc_step_test
+
