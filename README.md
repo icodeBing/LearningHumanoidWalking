@@ -1,4 +1,4 @@
-# LearningHumanoidWalking
+# SB_LearningHumanoidWalking
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ZgfNzGAkk2Q"><img src="https://github.com/user-attachments/assets/5211cdcd-2267-497b-bd66-ac833703a134" alt="humanoid-walk" style="width:1000px"/></a>

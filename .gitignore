@@ -4,3 +4,5 @@ __pycache__*
 *.egg-info
 *.#~
 logs*
+
+/runs/jvrc_step_smoke
